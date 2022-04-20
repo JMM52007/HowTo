@@ -5,18 +5,7 @@
 h1{
     font-size: 3.5rem;
     color: #2C3B59;
-}
-
-.recipe{
-
-}
-
-.directions{
-
-}
-
-.ingredients{
-
+    text-decoration: underline;
 }
 
 h2{
