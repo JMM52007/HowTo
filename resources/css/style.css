@@ -20,6 +20,10 @@ a{
   padding: 20px;
 }
 
+nav{
+  padding: 20px 0;
+}
+
 h3{
   font-size: 1.99rem;
   color: #415E8C;
