@@ -5,14 +5,14 @@
 h1{
     font-size: 3.5rem;
     color: #2C3B59;
-    padding:20px 0;
+    padding:20px ;
 }
 
 h2{
   font-size: 2.5rem;
   color: #2C3B59;
   text-decoration: underline;
-  padding: 20px;
+  padding: 50px 0 20px 20px;
 }
 
 a{
@@ -23,13 +23,14 @@ a{
 }
 
 nav{
-  padding: 20px 0;
+  padding: 20px ;
 }
 
 h3{
   font-size: 1.99rem;
   color: #415E8C;
-  padding: 20px;
+  padding: 50px 0 20px 20px;
+  text-decoration: overline;
 }
 
 h4{
@@ -42,4 +43,25 @@ h5{
   font-size: 1.5rem;
   color: #000000;
   padding: 20px;
+}
+
+ol,ul {
+  padding-left: 40px;
+}
+
+b {
+  font-weight: bold;
+}
+
+p {
+  padding: 0 0 20px 40px;
+
+}
+
+.image-container {
+  padding: 20px;
+}
+
+.my-notes {
+  padding-top: 30px;
 }
