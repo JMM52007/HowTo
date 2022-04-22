@@ -16,10 +16,19 @@ h2{
 }
 
 a{
-  background-color: #2C3B59;
+  background-color: #415E8C;
   color: #c9af98;
   text-decoration: none;
   padding: 20px;
+  border: 5px outset #2C3B59;
+  border-radius:4px;
+  transition-duration: .4s;
+}
+
+a:hover{
+  background-color:#c9af98;
+  color:#2C3B59;
+  border:5px outset #415E8C;
 }
 
 nav{
@@ -60,6 +69,7 @@ p {
 
 .image-container {
   padding: 20px;
+
 }
 
 .my-notes {
