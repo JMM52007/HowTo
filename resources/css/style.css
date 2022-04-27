@@ -18,6 +18,12 @@ h2{
   color: #2C3B59;
   text-decoration: underline;
   padding: 50px 0 20px 20px;
+  text-align: center;
+}
+
+h6{
+
+  text-align: center;
 }
 
 a{
@@ -38,13 +44,13 @@ a:hover{
 }
 
 nav{
-  padding: 20px;
-  width: 40%;
-  margin:auto;
+  padding: 20px 0 30px 10px;
+  width: 550px;
+  margin: 20px auto;
 }
 
-  header {
-
+body {
+width:90%;
   }
 
 h3{
@@ -52,6 +58,7 @@ h3{
   color: #415E8C;
   padding: 50px 0 20px 20px;
   text-decoration: overline;
+  text-align: center;
 }
 
 h4{
@@ -88,13 +95,11 @@ b {
 
 p {
   padding: 0 0 20px 40px;
-
 }
 
 .image-container {
-  padding: 20px;
-
-
+  margin:auto;
+  text-align: center;
 }
 
 .my-notes {
